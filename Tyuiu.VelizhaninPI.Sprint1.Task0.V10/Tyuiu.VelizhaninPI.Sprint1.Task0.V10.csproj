@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{9C553659-AD96-4089-98E2-FBA4D994CB53}</ProjectGuid>
+    <ProjectGuid>{75C6D143-FED4-491A-8BEE-344A567C3A1B}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>Tyuiu.VelizhaninPI.Sprint1.Task0.V10</RootNamespace>
     <AssemblyName>Tyuiu.VelizhaninPI.Sprint1.Task0.V10</AssemblyName>
@@ -51,11 +51,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Tyuiu.VelizhaninPI.Sprint1.Task0.V10.Lib\Tyuiu.VelizhaninPI.Sprint1.Task0.V10.Lib.csproj">
-      <Project>{6e523cda-de8b-4f3c-a280-ad5c0fe8642b}</Project>
+      <Project>{652af865-f45d-4e0f-93fb-67ce101bb691}</Project>
       <Name>Tyuiu.VelizhaninPI.Sprint1.Task0.V10.Lib</Name>
     </ProjectReference>
     <ProjectReference Include="..\Tyuiu.VelizhaninPI.Sprint1.Task0.V10.Test\Tyuiu.VelizhaninPI.Sprint1.Task0.V10.Test.csproj">
-      <Project>{d4cf2956-76f5-46ed-8a48-2bde51766f1a}</Project>
+      <Project>{dc73ff61-4ea3-4689-86eb-62438127e9a3}</Project>
       <Name>Tyuiu.VelizhaninPI.Sprint1.Task0.V10.Test</Name>
     </ProjectReference>
   </ItemGroup>
